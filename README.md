@@ -1,3 +1,7 @@
+# SHELL
+* Shell Style Guide
+    * https://google.github.io/styleguide/shell.xml?mc_cid=2498c2fa19&mc_eid=f5f510a022
+
 # NETWORKING
 * Tcpdump Examples
     * https://hackertarget.com/tcpdump-examples/
